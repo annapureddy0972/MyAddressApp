@@ -1,0 +1,162 @@
+[
+	{
+		"house": "777",
+		"street": "Brockton Avenue",
+		"city": "London",
+		"postalCode": "2351",
+		"country": "England",
+		"countryCode": "ENG"
+	},
+	{
+		"house": "30",
+		"street": "Memorial Drive",
+		"city": "Detroit",
+		"postalCode": "2322",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "250",
+		"street": "Hartford Avenue",
+		"city": "Bellingham",
+		"postalCode": "2019",
+		"country": "Netherlands",
+		"countryCode": "NED"
+	},
+	{
+		"house": "700",
+		"street": "Oak Street",
+		"city": "Brockton",
+		"postalCode": "2301",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "66-4",
+		"street": "Parkhurst Rd",
+		"city": "Chelmsford",
+		"postalCode": "1824",
+		"country": "Canada",
+		"countryCode": "CAN"
+	},
+	{
+		"house": "591",
+		"street": "Memorial Dr",
+		"city": "Chicopee",
+		"postalCode": "1020",
+		"country": "Mexico",
+		"countryCode": "MEX"
+	},
+	{
+		"house": "55",
+		"street": "Brooksby Village Way",
+		"city": "Danvers",
+		"postalCode": "1923",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "34402",
+		"street": "Teaticket Rd",
+		"city": "Mumbai",
+		"postalCode": "2536",
+		"country": "India",
+		"countryCode": "IND"
+	},
+	{
+		"house": "42",
+		"street": "Fairhaven Commons Way",
+		"city": "Fairhaven",
+		"postalCode": "2719",
+		"country": "Cananda",
+		"countryCode": "CAN"
+	},
+	{
+		"house": "374",
+		"street": "William S Canning Blvd",
+		"city": "Fall River",
+		"postalCode": "2721",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "121",
+		"street": "Worcester Rd",
+		"city": "Framingham",
+		"postalCode": "1701",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "677",
+		"street": "Timpany Blvd",
+		"city": "Gardner",
+		"postalCode": "1440",
+		"country": "Netherlands",
+		"countryCode": "USA"
+	},
+	{
+		"house": "377",
+		"street": "Russell St",
+		"city": "Hadley",
+		"postalCode": "1035",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "295",
+		"street": "Plymouth Street",
+		"city": "Halifax",
+		"postalCode": "2338",
+		"country": "Canada",
+		"countryCode": "CAN"
+	},
+	{
+		"house": "1775",
+		"street": "Washington St",
+		"city": "Hanover",
+		"postalCode": "2339",
+		"country": "Mexico",
+		"countryCode": "MEX"
+	},
+	{
+		"house": "280",
+		"street": "Washington Street",
+		"city": "Hudson",
+		"postalCode": "1749",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "20",
+		"street": "Soojian Dr",
+		"city": "Leicester",
+		"postalCode": "1524",
+		"country": "Netherlands",
+		"countryCode": "NED"
+	},
+	{
+		"house": "11",
+		"street": "Jungle Road",
+		"city": "Delhi",
+		"postalCode": "1453",
+		"country": "India",
+		"countryCode": "IND"
+	},
+	{
+		"house": "301",
+		"street": "Massachusetts Ave",
+		"city": "Lunenburg",
+		"postalCode": "1462",
+		"country": "United States",
+		"countryCode": "USA"
+	},
+	{
+		"house": "780",
+		"street": "Lynnway",
+		"city": "Lynn",
+		"postalCode": "1905",
+		"country": "United States",
+		"countryCode": "USA"
+	}
+]
